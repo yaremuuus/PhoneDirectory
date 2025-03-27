@@ -92,3 +92,4 @@ cmake -B build && cmake --build build
 ```
 
 ## **How it looks:**  
+![](demo.gif)
